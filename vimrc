@@ -103,3 +103,10 @@ if &term =~ "xterm"
     let &t_Sb = "\<Esc>[4%dm"
   endif
  endif
+
+ "this bit enables folding and lets me fold using F9
+ set foldmethod=manual
+ inoremap <F9> <C-O>za
+ nnoremap <F9> za
+ onoremap <F9> <C-C>za
+ vnoremap <F9> zf
