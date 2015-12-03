@@ -29,6 +29,7 @@ set wildmode=list:longest "makes wildmenu work like you expect it to
 set ttyfast "send more characters to the terminal. makes thing smoother.
 set ruler "show cursor position
 set laststatus=2 "show status line on all windows
+set nowrap "i dont like my text to wrap
 
 "make vim regex work like normal regex. ads \v before any search string
 nnoremap / /\v
