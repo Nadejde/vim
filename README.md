@@ -9,12 +9,12 @@ I'm using pathogen as a bundle manager. Most of the bundles just work. Some of t
 Make sure to download subrepository files: `submodule update --init --recursive`
 
 #List of all bundles 
-##[YouCompleteMe](https://github.com/Valloric/YouCompleteMe)
+###[YouCompleteMe](https://github.com/Valloric/YouCompleteMe)
 Very useful bundle for code-completion. I use it mostly for c# but it does support other languages. Also does basic functions like Go to Declaration, Get Type. Can also fix simple syntax errors for you.
 This bundle needs installing please follow instructions on bundle page.
-##[ctrlp](https://github.com/kien/ctrlp.vim)
+###[ctrlp](https://github.com/kien/ctrlp.vim)
 Helpful path fuzzy finder. 
-##[nerdcommenter](https://github.com/scrooloose/nerdcommenter)
+###[nerdcommenter](https://github.com/scrooloose/nerdcommenter)
 Use this to comment/uncomment blocks of code.
-##[nerdtree](https://github.com/scrooloose/nerdtree)
+###[nerdtree](https://github.com/scrooloose/nerdtree)
 Adds the nice file tree you can see on the left.
